@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+fieldset{
+    background-color: antiquewhite;
+    padding-left: 1%;
+    background-image: linear-gradient(rgb(232, 194, 143),rgb(95, 91, 91));
+}
+label{
+    color: rgb(23, 25, 24);
+    font-size: large;
+    font-weight: bolder;
+}
+input:hover
+{
+    background-color:aquamarine;
+    border: 5px  cadetblue;
+    border-style: groove;
+}
+textarea:hover{
+    background-color:aquamarine;
+    border: 5px  cadetblue;
+    border-style: groove;
+}
+.btn{
+    border: none;
+    border-radius: 50%;
+    size: 150%;
+    font-weight: bold;
+    font-size: large;
+}
+h1{
+    text-shadow: 5px 2px 5px rgb(11, 11, 11);
+}
+span{
+    color: rgb(23, 25, 24);
+    font-size: large;
+    font-weight: bolder;
+}
